@@ -55,17 +55,3 @@ export const Title = styled.div`
     }
 
 `
-
-export const Skills = styled.div`
-    display: flex;
-`
-
-export const Skill = styled.div`
-    width: 6rem;
-    height: 6rem;
-
-    background-color: var(--pink-color-300);
-
-    border-radius: 50%;
-
-`
