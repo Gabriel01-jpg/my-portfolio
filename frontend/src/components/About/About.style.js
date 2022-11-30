@@ -8,7 +8,7 @@ export const Container = styled.div`
 
 export const ExperienceContent = styled.div`
     display: flex;
-    gap: 3rem;
+    gap: 4.6rem;
     height: 50%;
 
     padding: 2rem 0;
@@ -58,14 +58,14 @@ export const Title = styled.div`
 
 export const Skills = styled.div`
     display: flex;
+    justify-content: center;
+    gap: 60px;
+
+    margin-top: 1rem;
 `
 
-export const Skill = styled.div`
-    width: 6rem;
-    height: 6rem;
-
-    background-color: var(--pink-color-300);
-
-    border-radius: 50%;
+export const Logo = styled.img`
+    width: 120px;
+    height: 120px
 
 `

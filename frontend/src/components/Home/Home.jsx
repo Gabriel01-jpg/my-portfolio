@@ -9,7 +9,7 @@ export const Home = () => {
         <HomeSection>
             <HomeContent>
                 <HomeTitle>
-                    <Title maxWidth="20rem">Hello, I’am Gabriel Lima</Title>
+                    <Title maxWidth="20rem" color="#282828">Hello, I’am Gabriel Lima</Title>
                     <Title color="#FF4C60"><AnimationText text={"Fullstack developer"} /></Title>
                     <FileDownload href="/cv">Download Resumo</FileDownload>
                 </HomeTitle>

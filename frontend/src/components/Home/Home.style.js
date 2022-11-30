@@ -4,7 +4,7 @@ import backgroundCube from '../../images/Homer/background-cubes.svg'
 
 export const HomeSection = styled.section`
     width: 100%;
-    height: 100vh;
+    height: calc(100vh - 5rem);
 
     display: flex;
     align-items: center;

@@ -4,7 +4,8 @@ const GlobalStyle = createGlobalStyle`
   :root {
     --background-color: #FFFAFA;
 
-    --pink-color-300: #FCE8E6; 
+    --pink-color-300: #FCE8E6;
+    --gray-color-800: #282828;
   }
   
   * {
